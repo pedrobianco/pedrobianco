@@ -29,16 +29,16 @@ Trabalho com desenvolvimento de sistemas de **ponto de venda e gestão de varejo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrobianco&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobianco&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU_PERFIL](https://www.linkedin.com/in/pedro-alastico-bianco-581707132/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedroalasticobianco@gmail.com)
 
 ---
 
