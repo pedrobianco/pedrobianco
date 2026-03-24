@@ -24,6 +24,7 @@ Trabalho com desenvolvimento de sistemas de **ponto de venda e gestão de varejo
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20Firebird-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%2B%20GNOME-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
