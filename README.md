@@ -18,6 +18,12 @@ Trabalho com desenvolvimento de sistemas de **ponto de venda e gestão de varejo
 ## 🛠️ Stack
 
 ![Java](https://img.shields.io/badge/Java-8%20%7C%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20Firebird-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%2B%20GNOME-E95420?style=flat-square&logo=ubuntu&logoColor=white)
