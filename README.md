@@ -1,14 +1,47 @@
-<h1 align="center">Hi 👋, I'm Pedro Bianco</h1>
-<h3 align="center">Java BackEnd developer</h3>
+# Pedro
 
-- 🔭 I’m currently working on **Socin**
+> Desenvolvedor Java Pleno
 
-- 📫 How to reach me **pedroalasticobianco@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pedro-alastico-bianco-581707132/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-alastico-bianco-581707132/" height="30" width="40" /></a>
+## 👨‍💻 Sobre mim
+
+Trabalho com desenvolvimento de sistemas de **ponto de venda e gestão de varejo**, atuando em aplicações Java desktop, administração de banco de dados, integrações com plataformas externas e automações internas.
+
+- 📍 Ribeirão Preto, SP — Brasil
+- 🖥️ Ambiente: **Ubuntu Linux + GNOME**, dark theme por princípio
+- 🔧 Mentalidade: ferramenta prática > processo burocrático
+- ☕ Stack principal: **Java**, **SQL**, **Shell Script**
+
+---
+
+## 🛠️ Stack
+
+![Java](https://img.shields.io/badge/Java-8%20%7C%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20Firebird-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%2B%20GNOME-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Swing](https://img.shields.io/badge/Java%20Swing-Desktop%20Apps-007396?style=flat-square&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+
+---
+
+<p align="center">
+  <sub>☕ <code>System.out.println("funciona!");</code></sub>
+</p>
