@@ -28,7 +28,7 @@ Trabalho com desenvolvimento de sistemas de **ponto de venda e gestão de varejo
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pedro-alastico-bianco-581707132/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-alastico-bianco-581707132/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedroalasticobianco@gmail.com)
 
 ---
